@@ -9,6 +9,8 @@ sites:
     check: "tcp-ping"
     url: mqtt.akx.cloud
     port: 443
+  - name: DTR
+    url: https://sfw.evva.com/api/v2.0/health
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
