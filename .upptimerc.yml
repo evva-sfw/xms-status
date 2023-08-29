@@ -25,6 +25,7 @@ status-website:
   cname: status.akx.cloud
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/evva-sfw/xms-status/master/assets/logo.svg
+  themeUrl: https://raw.githubusercontent.com/evva-sfw/xms-status/master/assets/evva.css
   name: XMS Status
   introTitle: "**XMS** uptime monitor and status page."
   introMessage: This is a status and uptime page based on real-time monitoring data.
@@ -33,8 +34,6 @@ status-website:
       href: /
     - title: Xesar
       href: https://www.evva.com/xesar
-  links:
-    themeUrl: https://raw.githubusercontent.com/evva-sfw/xms-status/master/assets/evva.css
   metaTags:
     - name: "color-scheme"
       content: "dark light"
