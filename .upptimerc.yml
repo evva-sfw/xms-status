@@ -15,7 +15,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.akx.cloud
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/evva-sfw/xms-status/master/static/img/icon.svg
+  logoUrl: https://status.akx.cloud/logo.svg
   name: XMS Status
   introTitle: "**XMS** uptime monitor and status page."
   introMessage: This is a status and uptime page based on real-time monitoring data.
