@@ -5,14 +5,21 @@ repo: xms-status # The name of this repository
 sites:
   - name: XMS Service
     url: https://mss.akx.cloud/health
+    #icon: https://raw.githubusercontent.com/evva-sfw/xms-status/master/assets/evva-site-icon.svg
   - name: XMS Broker
     check: "tcp-ping"
     url: mqtt.akx.cloud
     port: 443
+    #icon: https://raw.githubusercontent.com/evva-sfw/xms-status/master/assets/evva-site-icon.svg
   - name: DTR
     url: https://sfw.evva.com/api/v2.0/health
-
+    #icon: https://raw.githubusercontent.com/evva-sfw/xms-status/master/assets/evva-site-icon.svg
+assignees: # Users to assign downtime issues (optional)
+  - dwimberger
+  - axi92
 status-website:
+  faviconSvg: https://raw.githubusercontent.com/evva-sfw/xms-status/master/assets/evva-site-icon.svg
+  favicon: https://raw.githubusercontent.com/evva-sfw/xms-status/master/assets/favicon.png
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.akx.cloud
@@ -24,6 +31,15 @@ status-website:
   navbar:
     - title: Status
       href: /
-
+    - title: Xesar
+      href: https://www.evva.com/xesar
+  links:
+    themeUrl: https://raw.githubusercontent.com/evva-sfw/xms-status/master/assets/evva.css
+  metaTags:
+    - name: "color-scheme"
+      content: "dark light"
+    - name: "robots"
+      content: "noindex"
+  
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
