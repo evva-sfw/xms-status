@@ -30,14 +30,14 @@
 @media (prefers-color-scheme: dark) {
 :root {
     --body-background-color: #000000;
-    --body-text-color: #EDEDED;
+    --body-text-color: #ededed;
     --card-background-color: #575756;
-    --nav-background-color: #002b29;
-    --nav-border-bottom-color: #015450;
-    --nav-current-border-bottom-color: #1abc9c;
-    --card-border-color: #015450;
+    --nav-background-color: #575756;
+    --nav-border-bottom-color: ##b2b2b2;
+    --nav-current-border-bottom-color: #ededed;
+    --card-border-color: #B2B2B2;
     --down-border-left-color: #eb3b5a;
-    --down-background-color: #6b1020;
+    --down-background-color: #FCE500;
     --degraded-border-left-color: #f7b731;
     --up-border-left-color: #20bf6b;
     --tag-color: #002b29;
@@ -56,3 +56,6 @@
   }
 }
 
+article .graph {
+    filter: grayscale(100%);
+}
