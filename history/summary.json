@@ -4,18 +4,20 @@
     "url": "https://mss.akx.cloud/health",
     "icon": "https://icons.duckduckgo.com/ip3/mss.akx.cloud.ico",
     "slug": "xms-service",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 445,
-    "timeDay": 445,
-    "timeWeek": 445,
-    "timeMonth": 445,
-    "timeYear": 445,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 428,
+    "timeDay": 428,
+    "timeWeek": 428,
+    "timeMonth": 428,
+    "timeYear": 428,
+    "dailyMinutesDown": {
+      "2023-08-29": 0
+    }
   },
   {
     "name": "XMS Broker",
