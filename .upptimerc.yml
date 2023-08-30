@@ -6,12 +6,7 @@ sites:
   - name: XMS Service
     url: https://mss.akx.cloud/health
     #icon: https://raw.githubusercontent.com/evva-sfw/xms-status/master/assets/evva-site-icon.svg
-  - name: XMS Broker
-    check: "tcp-ping"
-    url: mqtt.akx.cloud
-    port: 443
-    #icon: https://raw.githubusercontent.com/evva-sfw/xms-status/master/assets/evva-site-icon.svg
-  - name: DTR
+  - name: EVVA DTR
     url: https://sfw.evva.com/api/v2.0/health
     #icon: https://raw.githubusercontent.com/evva-sfw/xms-status/master/assets/evva-site-icon.svg
 assignees: # Users to assign downtime issues (optional)
