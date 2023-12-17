@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 35 35" width="35pt" height="35pt" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata>
+    <dc:date>2017-09-15 21:54:33 +0000</dc:date>
+  </metadata>
+  <defs/>
+  <g stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1">
+    <title>Canvas 1</title>
+    <g>
+      <title>Layer 1</title>
+      <path d="M 17.0077 -3e-4 C 7.6147 -3e-4 -3e-4 7.6147 -3e-4 17.0077 C -3e-4 26.4007 7.6147 34.0157 17.0077 34.0157 C 26.4007 34.0157 34.0157 26.4007 34.0157 17.0077 C 34.0157 7.6147 26.4007 -3e-4 17.0077 -3e-4 Z" fill="#f8e514"/>
+      <path d="M 22.725354 16.991374 L 17.541827 9.732755 L 13.03937 9.732755 L 18.192893 16.991374 L 13.03937 24.282992 L 17.345807 24.282992 Z" fill="#4d4d4c"/>
+    </g>
+  </g>
+</svg>
