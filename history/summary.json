@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mss.akx.cloud.ico",
     "slug": "xms-service",
     "status": "up",
-    "uptime": "98.79%",
+    "uptime": "98.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.74%",
     "time": 433,
-    "timeDay": 435,
-    "timeWeek": 443,
-    "timeMonth": 430,
-    "timeYear": 433,
+    "timeDay": 549,
+    "timeWeek": 449,
+    "timeMonth": 429,
+    "timeYear": 434,
     "dailyMinutesDown": {
       "2024-03-18": 163,
       "2024-01-23": 86,
@@ -26,8 +26,7 @@
       "2023-11-16": 20,
       "2023-10-17": 510,
       "2023-10-16": 521,
-      "2023-09-18": 468,
-      "2023-09-17": 498
+      "2023-09-18": 468
     }
   },
   {
@@ -42,9 +41,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 797,
-    "timeDay": 680,
-    "timeWeek": 1066,
-    "timeMonth": 669,
+    "timeDay": 730,
+    "timeWeek": 593,
+    "timeMonth": 673,
     "timeYear": 793,
     "dailyMinutesDown": {}
   }
