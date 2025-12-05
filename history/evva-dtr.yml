@@ -1,7 +1,7 @@
 url: https://sfw.evva.com/api/v2.0/health
-status: down
-code: 502
-responseTime: 742
-lastUpdated: 2025-12-05T14:10:42.259Z
+status: up
+code: 200
+responseTime: 803
+lastUpdated: 2025-12-05T14:36:25.694Z
 startTime: 2023-08-30T06:55:11.673Z
 generator: Upptime <https://github.com/upptime/upptime>
