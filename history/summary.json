@@ -24,21 +24,21 @@
     "url": "https://sfw.evva.com/api/v2.0/health",
     "icon": "https://icons.duckduckgo.com/ip3/sfw.evva.com.ico",
     "slug": "evva-dtr",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
-    "time": 693,
-    "timeDay": 823,
-    "timeWeek": 791,
-    "timeMonth": 714,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "77.81%",
+    "uptimeWeek": "96.83%",
+    "uptimeMonth": "99.27%",
+    "uptimeYear": "99.89%",
+    "time": 694,
+    "timeDay": 750,
+    "timeWeek": 776,
+    "timeMonth": 713,
     "timeYear": 741,
     "dailyMinutesDown": {
       "2025-12-05": 26,
       "2026-06-22": 217,
-      "2026-08-06": 0
+      "2026-08-06": 320
     }
   }
 ]
